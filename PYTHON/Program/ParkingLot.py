@@ -1,3 +1,9 @@
+/* 
+    Saya Tattha Maharany Yasmin Akbar dengan NIM 2201805 mengerjakan soal Latihan 4 
+    dalam Praktikum mata kuliah Desain dan Pemrograman Berbasis Objek, untuk keberkahan-Nya
+    maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamin.
+*/
+
 from Vehicle import Vehicle
 # parking lot memiliki vehicle
 class ParkingLot: # atribut private untuk parking lot
