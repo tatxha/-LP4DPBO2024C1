@@ -18,18 +18,21 @@ Didalam class **ParkingLot** memiliki 5 Atribut, yaitu :
 * Jumlah Kendaraan yang mengisi parking lot tersebut
 
 **`Class ParkingLot memiliki Class Vehicle (Composite)`**
+
 Didalam class **Vehicle** memiliki 4 Atribut, yaitu : 
 * Nomor Plat dari kendaraan
 * Merk kendaraan
 * Tahun Produksi kendaraan
 * Warna kendaraan
 
-**`Class Car adalah child dari Class Vehicle (Inheritance)`\n**
+**`Class Car adalah child dari Class Vehicle (Inheritance)`**
+
 Didalam class **Car** memiliki 2 Atribut, yaitu : 
 * Jumlah Kursi yang ada pada mobil
 * Jumlah Pintu yang ada pada mobil
 
 **`Class MotorCycle adalah child dari Class Vehicle (Inheritance)`**
+
 Didalam class **MotorCycle** memiliki 2 Atribut, yaitu : 
 * Jenis Motor
 * Kapasitas Tangki dari motor
