@@ -24,7 +24,7 @@ Didalam class **Vehicle** memiliki 4 Atribut, yaitu :
 * Tahun Produksi kendaraan
 * Warna kendaraan
 
-**`Class Car adalah child dari Class Vehicle (Inheritance)`**
+**`Class Car adalah child dari Class Vehicle (Inheritance)`\n**
 Didalam class **Car** memiliki 2 Atribut, yaitu : 
 * Jumlah Kursi yang ada pada mobil
 * Jumlah Pintu yang ada pada mobil
